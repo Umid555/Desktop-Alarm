@@ -1,0 +1,27 @@
+C:\Users\ACER\source\repos\Alarm\bin\Debug\Alarm.exe.config
+C:\Users\ACER\source\repos\Alarm\bin\Debug\Alarm.exe
+C:\Users\ACER\source\repos\Alarm\bin\Debug\Alarm.pdb
+C:\Users\ACER\source\repos\Alarm\obj\Debug\Alarm.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Alarm\obj\Debug\Alarm.Alarm.resources
+C:\Users\ACER\source\repos\Alarm\obj\Debug\Alarm.Properties.Resources.resources
+C:\Users\ACER\source\repos\Alarm\obj\Debug\Alarm.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Alarm\obj\Debug\Alarm.exe
+C:\Users\ACER\source\repos\Alarm\obj\Debug\Alarm.pdb
+C:\Users\ACER\Desktop\Alarm\bin\Debug\Alarm.exe.config
+C:\Users\ACER\Desktop\Alarm\bin\Debug\Alarm.exe
+C:\Users\ACER\Desktop\Alarm\bin\Debug\Alarm.pdb
+C:\Users\ACER\Desktop\Alarm\obj\Debug\Alarm.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Alarm\obj\Debug\Alarm.Alarm.resources
+C:\Users\ACER\Desktop\Alarm\obj\Debug\Alarm.Properties.Resources.resources
+C:\Users\ACER\Desktop\Alarm\obj\Debug\Alarm.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Alarm\obj\Debug\Alarm.exe
+C:\Users\ACER\Desktop\Alarm\obj\Debug\Alarm.pdb
+C:\Users\ACER\Desktop\Alarm (1)\Alarm\bin\Debug\Alarm.exe.config
+C:\Users\ACER\Desktop\Alarm (1)\Alarm\bin\Debug\Alarm.exe
+C:\Users\ACER\Desktop\Alarm (1)\Alarm\bin\Debug\Alarm.pdb
+C:\Users\ACER\Desktop\Alarm (1)\Alarm\obj\Debug\Alarm.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Alarm (1)\Alarm\obj\Debug\Alarm.Alarm.resources
+C:\Users\ACER\Desktop\Alarm (1)\Alarm\obj\Debug\Alarm.Properties.Resources.resources
+C:\Users\ACER\Desktop\Alarm (1)\Alarm\obj\Debug\Alarm.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Alarm (1)\Alarm\obj\Debug\Alarm.exe
+C:\Users\ACER\Desktop\Alarm (1)\Alarm\obj\Debug\Alarm.pdb
